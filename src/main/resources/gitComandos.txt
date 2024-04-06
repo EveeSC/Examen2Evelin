@@ -1,0 +1,7 @@
+entrar al git bash
+1. git init -b main 
+2.git status
+3.git remote add origin _link
+4. git push 
+
+
